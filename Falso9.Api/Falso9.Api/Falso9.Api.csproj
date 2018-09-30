@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Falso9.Entidades\Falso9.Entidades.csproj" />
+    <ProjectReference Include="..\Falso9.Negocio\Falso9.Negocio.csproj" />
   </ItemGroup>
 
 </Project>
